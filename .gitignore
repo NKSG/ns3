@@ -1,3 +1,5 @@
 *.o
 build/*
 *.pcap
+.lock-wscript
+*.pyc
